@@ -1,0 +1,5 @@
+{
+  "redirectUrl":"https://localhost/checkout/dyn/hostedPaymentRedirectionServlet",
+  "stylesheet":"DESKTOP",
+  "consentAgreement": false
+}

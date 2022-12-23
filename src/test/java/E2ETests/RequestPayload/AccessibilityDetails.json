@@ -1,0 +1,18 @@
+{
+  "accessibilityNeeds": true,
+  "specialNeeds": {
+    "deafOrHardOfHearing": true,
+    "blindOrPartiallySighted": false,
+    "physicallyDisabled": false,
+    "longTermHospitalStay": false,
+    "cognitivelyDisabled": false,
+    "motorSkillsIssues": false,
+    "age": false,
+    "dyslexia": false,
+    "mentalHealth": false,
+    "mentalHealthSecondPerson": false,
+    "powerOfAttorney": true,
+    "preferNotToSay":false
+  },
+  "mediaType":"None"
+}

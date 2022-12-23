@@ -1,0 +1,10 @@
+{
+  "monthlyIncome": "2000",
+  "monthlyExpenditure": "1000",
+  "incomeReductionExpected": false,
+  "monthlyPhoneExpenditure": "40",
+  "outstandingDebt": false,
+  "type": "incomeCheck",
+  "affordabilityExpected": true,
+  "noChangeInCircumstances": true
+}

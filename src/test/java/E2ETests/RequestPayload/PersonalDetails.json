@@ -1,0 +1,56 @@
+{
+  "username": "#(randomUserName)",
+  "pin": "1234",
+  "memorableWord": null,
+  "hint": null,
+  "title": "Mr.",
+  "firstName": "MIKE",
+  "lastName": "LINEKYC",
+  "phoneNumber": "01234123412",
+  "email": "abc@test.com",
+  "validated": "true",
+  "dateOfBirth": "01/12/1990",
+  "employmentStatus": "E",
+  "occupation": "",
+  "password": null,
+  "nationality": "British",
+  "businessData": {
+    "companyNumber": null,
+    "companyName": null,
+    "tradingAs": null,
+    "businessPostCode": null,
+    "businessOnly": false
+  },
+  "customerType": "Consumer",
+  "marketingPreferences": {
+    "email": true,
+    "text": true,
+    "phone": true,
+    "post": true,
+    "network": false,
+    "location": false,
+    "mms": true,
+    "survey": true,
+    "fax": true,
+    "profile": false
+  },
+  "addressInfo": [
+    {
+      "id": "365ab0f4-4818-41f9-a5a2-d21ee51a3222622",
+      "houseNumber": "",
+      "flatNumber": "2",
+      "houseName": "APEX Apartments",
+      "locality": "",
+      "city": "NEWBURY",
+      "streetName": "Foam Road",
+      "postCode": "AC12 3ID",
+      "county": "Berkshire",
+      "country": "United Kingdom",
+      "monthMovedIn": "02",
+      "yearMovedIn": "1992",
+      "residentialStatus": "F",
+      "addressType": ""
+    }
+  ],
+  "installationAddress": {}
+}

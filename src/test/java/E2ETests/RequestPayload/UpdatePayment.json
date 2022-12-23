@@ -1,0 +1,25 @@
+{
+  "paypalDetails":{
+    "payerId":"123",
+    "paymentNonce":"nonce",
+    "paypalDeviceDataId":"123456",
+    "firstName":"uday",
+    "lastName":"remala",
+    "clientId":"YESP",
+    "email":"uday@abc.com",
+    "shippingAddress":{
+      "houseNumber": "35",
+      "flatNumber": "35",
+      "houseName": "Bartholomew Court",
+      "locality": "",
+      "city": "NEWBURY",
+      "streetName": "Bartholomew Court",
+      "postCode": "Rg145hf",
+      "county": "Berkshire",
+      "country": "United Kingdom"
+    }
+  },
+  "selectedPaymentTypes": [
+    "ONETIME","RECURRING"
+  ]
+}

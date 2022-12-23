@@ -1,0 +1,11 @@
+
+base.path: https://dal.dx-prodsup-blue.internal.vodafoneaws.co.uk
+basket_context_path: /basket/v2/basket
+checkout_context_path: /checkoutInfo/v2
+authorization_context_path: /authorization
+customer.context.path: customer
+simo_purchase: /simo-purchase/paym/v2/
+journey_latest: /journeys/latest
+decryptJWT: /decryptJwt
+authorizationToken: /authorizationToken
+validate: /validate

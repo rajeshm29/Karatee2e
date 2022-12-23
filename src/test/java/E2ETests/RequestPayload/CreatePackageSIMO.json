@@ -1,0 +1,10 @@
+{
+  "offerCode": "W_HH_SIMONLY_01",
+  "planId": "#(planId)",
+  "sortBy": "dataAllowance.desc",
+  "monthlyPrice": "0TO15, 16TO25",
+  "roamingInclusiveProductId": "111068",
+  "salesPromotion": "YES",
+  "accessoriesEnabledFlagOverride": true,
+  "businessAppsEnabledFlagOverride": false
+}

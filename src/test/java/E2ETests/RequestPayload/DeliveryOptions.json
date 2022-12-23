@@ -1,0 +1,10 @@
+{
+  "deliveryOptionsInfo": {
+    "deliveryName": "DeliverToBilling",
+    "deliveryAddress": {
+      "id": "#(billingAddressId)"
+    },
+    "selectedProductId": "#(deliveryMethodId)"
+  },
+  "storeId": null
+}

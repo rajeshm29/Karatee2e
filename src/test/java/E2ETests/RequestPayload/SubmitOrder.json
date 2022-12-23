@@ -1,0 +1,7 @@
+{
+
+  "blackbox":"12345",
+  "ipaddress":"10.10.0.1",
+  "accept":true,
+  "deviceFingerPrint": "asf"
+}

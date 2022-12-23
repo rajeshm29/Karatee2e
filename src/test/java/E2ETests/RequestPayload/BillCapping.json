@@ -1,0 +1,9 @@
+{
+  "billCappingSelected": true,
+  "packageBillCapData": [
+    {
+      "packageId" : "#(packageId)",
+      "selectedCapLimit" : "20"
+    }
+  ]
+}
